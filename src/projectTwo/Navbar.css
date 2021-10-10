@@ -1,0 +1,9 @@
+nav{
+    letter-spacing: 8px;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+    text-shadow: black 3px 3px 2px;
+    padding: 6px 0;
+    /* height: 5vh; */
+}

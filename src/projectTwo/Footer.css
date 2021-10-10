@@ -1,0 +1,11 @@
+.myfooter{
+
+margin-top: 0.6em;
+padding: 12px 0 2px 0;
+
+}
+.myfooter h3{
+letter-spacing: 8px;
+font-size: medium;
+/* font-weight: bold; */
+}

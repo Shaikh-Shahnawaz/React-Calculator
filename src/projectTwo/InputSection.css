@@ -1,0 +1,19 @@
+.myInput select{
+    /* border: 2px solid aqua!important; */
+    cursor: pointer;
+
+}
+input{
+    margin: 8px 18px 0 0;
+}
+.myInput label{
+
+    color: aqua;
+    
+}
+.myInput a{
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: azure;
+}
